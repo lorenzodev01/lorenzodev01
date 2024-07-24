@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lorenzodev01
 - 👀 I’m interested in Microservices architecture
-- 🌱 I’m currently learning Spring development
+- 🌱 I’m currently learning Spring framework
 - ⚡ Fun fact: still can't solve fibonacci
 
 <!---
